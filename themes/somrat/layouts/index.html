@@ -460,13 +460,12 @@
 <!-- Start Contact -->
 {{ with .GetPage "contact"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
-<form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94E">
 <section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
   <div class="container">
     <div class="row">
       <div class="contact-holder col-lg-8 offset-lg-2 col-sm-8 offset-sm-2">
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .Title | markdownify}}</h1>
-        <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
+        <form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94E" data-toggle="validator">
           <div class="form-container row wow fadeInUp" data-wow-duration="1.5s">
             <div class="form-group col-lg-6">
               <input class="form-control" type="text" name="username" id="username" placeholder="{{.Params.name}}"
