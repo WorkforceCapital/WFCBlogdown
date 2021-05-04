@@ -465,27 +465,35 @@
     <div class="row">
       <div class="contact-holder col-lg-8 offset-lg-2 col-sm-8 offset-sm-2">
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .Title | markdownify}}</h1>
-        <form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94E">
-          <div class="form-container row wow fadeInUp" data-wow-duration="1.5s">
-            <div class="form-group col-lg-6">
-              <input class="form-control" type="text" name="username" id="username" placeholder="{{.Params.name}}"
-                required>
-              <div class="help-block with-errors"></div>
-            </div>
-            <div class="form-group col-lg-6">
-              <input class="form-control" type="email" id="email" name="email" placeholder="{{.Params.email}}" required>
-              <div class="help-block with-errors"></div>
-            </div>
-            <div class="form-group col-lg-12">
-              <textarea class="form-control" name="message" id="message" rows="12"
-                placeholder="{{.Params.message}}"></textarea>
-              <div class="help-block with-errors"></div>
-            </div>
-            <div class="form-group col-lg-12 sub-button">
-              <button class="submit form-control hvr-icon-push" type="submit" value="send"> {{.Params.submit}} </button>
-            </div>
-          </div>
-        </form>
+<form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94">
+  <div class="form-group row">
+    <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="input-group col-sm-10">
+      <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
+      <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputMessage" class="col-sm-2 col-form-label">Message</label>
+    <div class="col-sm-10">
+      <textarea name="inputMessage" cols="40" rows="8" class="form-control"></textarea>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+  <div class="text-center">
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+  </div>
+</form>
       </div>
     </div>
     <div class="row">
