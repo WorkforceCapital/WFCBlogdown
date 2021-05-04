@@ -460,6 +460,7 @@
 <!-- Start Contact -->
 {{ with .GetPage "contact"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
+<form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94E">
 <section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
   <div class="container">
     <div class="row">
