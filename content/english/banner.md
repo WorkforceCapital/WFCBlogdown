@@ -12,7 +12,6 @@ last_name: Ait Ahmed
 occupations:
 - Strategic Workforce Planning (SWP)
 - People Analytics 
-- Business Analytics
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
