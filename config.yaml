@@ -51,7 +51,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 
+    copyright: Copyright © 2021 Workforce Capital - All Rights Reserved. - Privacy Policy
     home: Home
     languageCode: en-us
     languageName: En
@@ -94,7 +94,7 @@ Languages:
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Copyright &copy; 2021 
+    copyright: Copyright © 2021 Workforce Capital - All Rights Reserved. - Privacy Policy 
     home: Accueil
     languageCode: fr-fr
     languageName: Fr
