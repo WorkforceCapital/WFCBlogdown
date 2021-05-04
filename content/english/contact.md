@@ -1,7 +1,4 @@
 ---
-custom_attributes: ""
-custom_class: ""
-custom_css: ""
 title: Any Questions for Badr2?
 ---
 <form method="post" action="https://forms.un-static.com/forms/7ffeef8acb18bb05c78021e1f1b93cfc5cc3ef94">
