@@ -1,5 +1,5 @@
 baseURL: https://examplesite.com
-title: Somrat | Hugo Portfolio Template
+title: WFC | Workforce Capital 
 theme: somrat
 paginate: '8'
 summaryLength: '10'
@@ -13,7 +13,7 @@ markup:
     renderer:
       unsafe: yes
 params:
-  author: somrat
+  author: Badr
   description: This is meta description
   favicon: images/favicon.png
   logo_dark: images/logo-dark.png
