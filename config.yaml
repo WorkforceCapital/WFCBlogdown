@@ -43,11 +43,11 @@ params:
     preloader: images/preloader.gif
   social:
     - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/somratpro
+      link: https://www.linkedin.com/in/badr-ait-ahmed-64a0631/
     - icon: fab fa-twitter
-      link: https://twitter.com/somratpro
+      link: https://twitter.com/BadrAitAhmed3
     - icon: fab fa-github
-      link: https://github.com/somratpro
+      link: https://github.com/WorkforceCapital
 Languages:
   en:
     contentDir: content/english
