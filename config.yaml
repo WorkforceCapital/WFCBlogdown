@@ -86,7 +86,7 @@ Languages:
           weight: 7
         - name: Contact
           pre: '#'
-          url: contact3
+          url: contact
           weight: 8
         - name: Blog
           url: blog
