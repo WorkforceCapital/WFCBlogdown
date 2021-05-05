@@ -12,10 +12,6 @@ Ten years of experience in the field, my purpose is to help Quebec and Canadian 
  
 I have strong analytical skills, coupled with expertise in gathering and organizing large amounts of both structured and unstructured data. I use my analytical mindset to translate business needs to working hypotheses using theory and practical knowledge. On that basis, I can interpret intricate knowledge into tangible and strategic decision making.
 
-```{r}
-print(5)
-
-```
 
 
 
@@ -23,4 +19,5 @@ print(5)
 
 
 
- 
+
+
