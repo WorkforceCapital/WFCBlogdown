@@ -57,28 +57,25 @@ Languages:
     languageName: En
     menu:
       main:
-        - name: Home
-          url: /
-          weight: 1
         - name: ABOUT BADR
           pre: '#'
           url: about
-          weight: 2
+          weight: 1
         - name: PEOPLE ANALYTICS
           pre: '#'
           url: peopleanalytics
-          weight: 4
+          weight: 2
         - name: STRATEGIC WORKFORCE PLANNING
           pre: '#'
           url: swp
-          weight: 5
+          weight: 3
         - name: CONTACT
           pre: '#'
           url: contact
-          weight: 8
+          weight: 4
         - name: BLOG
           url: blog
-          weight: 9
+          weight: 5
     weight: 1
   fr:
     contentDir: content/french
@@ -88,31 +85,23 @@ Languages:
     languageName: Fr
     menu:
       main:
-        - name: Home
-          url: /
-          weight: 1
-        - name: About me
+        - name: ABOUT BADR
           pre: '#'
           url: about
-          weight: 2
-        - name: Service
-          pre: '#'
-          url: service
-          weight: 3
-        - name: People Analytics
+          weight: 1
+        - name: PEOPLE ANALYTICS
           pre: '#'
           url: peopleanalytics
-          weight: 4
-        - name: Portfolio
+          weight: 2
+        - name: STRATEGIC WORKFORCE PLANNING
           pre: '#'
-          url: portfolio
-          weight: 5
-        - name: Testimonial
-          pre: '#'
-          url: testimonial
-          weight: 6
-        - name: Contact
+          url: swp
+          weight: 3
+        - name: CONTACT
           pre: '#'
           url: contact
-          weight: 7
+          weight: 4
+        - name: BLOG
+          url: blog
+          weight: 5
     weight: 2
