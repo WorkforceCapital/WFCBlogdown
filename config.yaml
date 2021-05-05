@@ -60,27 +60,23 @@ Languages:
         - name: Home
           url: /
           weight: 1
-        - name: About me
+        - name: ABOUT BADR
           pre: '#'
           url: about
           weight: 2
-        - name: People Analytics
+        - name: PEOPLE ANALYTICS
           pre: '#'
           url: peopleanalytics
           weight: 4
-        - name: Strategic workforce planning
+        - name: STRATEGIC WORKFORCE PLANNING
           pre: '#'
           url: swp
           weight: 5
-        - name: Testimonial
-          pre: '#'
-          url: testimonial
-          weight: 7
-        - name: Contact
+        - name: CONTACT
           pre: '#'
           url: contact
           weight: 8
-        - name: Blog
+        - name: BLOG
           url: blog
           weight: 9
     weight: 1
