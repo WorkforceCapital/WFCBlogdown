@@ -4,7 +4,7 @@ author: 'Badr Eddine Ait Ahmed'
 date: '2021-05-05'
 slug: []
 categories: []
-image: images/blog/dashbord.jpg
+image: images/blog/dashboard.jpg
 tags:
 - People Analytics
 - Strategy
