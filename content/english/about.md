@@ -7,7 +7,7 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 image: images/backgrounds/portrait.jpg
-title: KNOW MORE <br> ABOUT ME
+title: KNOW MORE <br> ABOUT BADR
 ---
 
 Your People Are Your Most Important Asset!
