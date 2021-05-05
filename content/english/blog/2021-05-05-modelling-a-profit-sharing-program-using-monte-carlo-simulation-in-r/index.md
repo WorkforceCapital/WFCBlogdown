@@ -19,9 +19,9 @@ Watching a Tidy Tuesday screencast on youtube with David Robinson* inspired me t
 
 The use of simulation has allowed us to test the program and ensure that it will work as intended regarding:
 
-👉 Predicting the baseline on which contributions to the profit pool will be based.
-👉 Setting the threshold for the Entities' performance, taking into account the efforts necessary to achieve the goal (Fairness).
-👉 Predicting the percentage to be shared. The amount of Profit distributed to different employees in the organization (by Entity).
+- 👉 Predicting the baseline on which contributions to the profit pool will be based.
+- 👉 Setting the threshold for the Entities' performance, taking into account the efforts necessary to achieve the goal (Fairness).
+- 👉 Predicting the percentage to be shared. The amount of Profit distributed to different employees in the organization (by Entity).
 
 Next time when you have an assignment in uncharted territory, summon Monte-Carlo.
 
