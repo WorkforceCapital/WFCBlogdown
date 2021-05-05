@@ -8,15 +8,14 @@ title: Strategic workforce planning
 
 
 
-Ten years of experience in the field, my purpose is to help Quebec and Canadian companies to be leaders in people analytics.
- 
-- I have strong analytical skills, coupled with expertise in gathering and organizing large amounts of both structured and unstructured data. I use my analytical mindset to translate business needs to working hypotheses using theory and practical knowledge. On that basis, I can interpret intricate knowledge into tangible and strategic decision making.
+**Analytics Educator**: Elevate internal analytical fluidity across the workforce, planning, performance and rewards, service delivery, culture, and engagement, talent optimization and recruitment & staffing.
 
 
+**Strategy**: Lead strategic planning and design for all aspects of the People Analytics function to advance People analytics capabilities to strengthen program execution in support of strategic initiatives.
 
--- I have strong analytical skills, coupled with expertise in gathering and organizing large amounts of both structured and unstructured data. I use my analytical mindset to translate business needs to working hypotheses using theory and practical knowledge. On that basis, I can interpret intricate knowledge into tangible and strategic decision making.
+**Corporate priorities**: Provide thought leadership to create data governance and management strategies and tools.
 
-* I have strong analytical skills, coupled with expertise in gathering and organizing large amounts of both structured and unstructured data. I use my analytical mindset to translate business needs to working hypotheses using theory and practical knowledge. On that basis, I can interpret intricate knowledge into tangible and strategic decision making.
+
 
 
 
