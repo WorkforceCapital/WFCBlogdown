@@ -2,7 +2,6 @@
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
-image: images/backgrounds/portrait.jpg
 title: People Analytics
 ---
 
