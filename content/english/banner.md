@@ -11,7 +11,7 @@ first_name: Badr Eddine
 last_name: Ait Ahmed
 occupations:
 - Strategic Workforce Planning (SWP)
-- People Analytics 
+- Consultant People Analytics 
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
