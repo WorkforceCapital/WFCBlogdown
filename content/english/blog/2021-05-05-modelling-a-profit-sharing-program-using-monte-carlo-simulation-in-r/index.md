@@ -4,6 +4,7 @@ author: ''
 date: '2021-05-05'
 slug: []
 categories: []
+image: images/blog/monte-carlo.jpg
 tags:
 - People Analytics
 - Rstats
