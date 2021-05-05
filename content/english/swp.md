@@ -6,7 +6,14 @@ image: images/concepts/swp.jpg
 title: Strategic workforce planning
 ---
 
+Do any of the following struggles ring true?
 
+- challenge 1
+- challenge 2
+- challenge 3
+
+
+Our Services : 
 
 **Analytics Educator**: Elevate internal analytical fluidity across the workforce, planning, performance and rewards, service delivery, culture, and engagement, talent optimization and recruitment & staffing.
 

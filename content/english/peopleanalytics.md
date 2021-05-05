@@ -6,6 +6,14 @@ image: images/concepts/people-analytics.jpg
 title: People Analytics
 ---
 
+Do any of the following struggles ring true?
+
+- challenge 1
+- challenge 2
+- challenge 3
+
+
+Our Services : 
 
 
 **Transformation & Leadership**: Provide subject matter expertise in the field of people analytics. Inspire and advance progressive ways of building data insights into HR decisions. Act as a role model, coach and guide within the HR departments to support the adoption of new reporting and modelling capabilities.
