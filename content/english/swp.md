@@ -3,7 +3,7 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 image: images/concepts/swp.jpg
-title: Strategic workforce planning
+title: Strategic Workforce Planning
 ---
 
 Do any of the following struggles ring true?
