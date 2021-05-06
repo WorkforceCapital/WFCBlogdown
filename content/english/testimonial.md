@@ -1,12 +1,15 @@
 ---
-custom_attributes: ""
-custom_class: ""
-custom_css: ""
+title : "TESTIMONIALS"
 testimonial_slider:
-- content: I had the chance to be Badr's client on the Workday Implementation project at Desjardins.
-He provided high value consulting while at the same time, supporting operations alongside the project's team to implement Workday.
-- designation: Director of Human Resources Performance and Business Analysis
-- image: images/clients/karl-harold.jpg
-- name: Karl-Harold Mercier
-title: TESTIMONIALS
+# slider item loop
+- name : "Badr"
+  image : "images/clients/client1.jpg"
+  designation : "CEO, RANDOM COMPANY"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+            
+
+# custom style
+custom_class: "" 
+custom_attributes: "" 
+custom_css: ""
 ---
