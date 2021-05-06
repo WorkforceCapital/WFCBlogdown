@@ -11,7 +11,3 @@ submit: Submit
 title: Any Questions <br> for Badr?
 ---
 
-1627 Notre Dame de fatima
-514-4520636
-Laval
-Canada
