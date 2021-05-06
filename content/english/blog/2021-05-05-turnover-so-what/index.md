@@ -4,7 +4,10 @@ author: ''
 date: '2021-05-05'
 slug: []
 categories: []
-tags: []
+image: images/blog/turnover.jpg
+tags: 
+- Cost
+- People Analytics
 description: This is meta description
 ---
 Often the HR presentation to C-suit related to employee attrition **fails to call for action**. What explains this situation?
