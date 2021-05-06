@@ -10,5 +10,5 @@ Without a doubt I recommend Badr for your business projects if you want alignmen
   designation: Director of Human Resources Performance and Business Analysis
   image: images/clients/karl-harold.jpg
   name: Karl-Harold Mercier
-title: TESTIMONIALSA
+title: TESTIMONIALS-Test
 ---

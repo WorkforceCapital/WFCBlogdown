@@ -1,5 +1,5 @@
 ---
-title : "TESTIMONIALS"
+title : "TESTIMONIALS-Test2"
 testimonial_slider:
 # slider item loop
 - name : "Badr"
