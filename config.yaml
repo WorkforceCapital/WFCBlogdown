@@ -3,7 +3,7 @@ title: WFC | Workforce Capital
 theme: somrat
 paginate: '8'
 summaryLength: '10'
-disableLanguages: []
+disableLanguages: true
 googleAnalytics: ''
 disqusShortname: ''
 outputs:
