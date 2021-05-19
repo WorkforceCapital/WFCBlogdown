@@ -2423,7 +2423,45 @@ textarea.form-control::-webkit-input-placeholder,
   color: #fff;
 }
 
+/*--------------------------------
+   Start Blog
+----------------------------------*/
+
+/* ========= Start Main Blog ======= */
+
+
+
 /* blog */
+
+
+.blog-container h1 {
+  position: relative;
+  text-align: center;
+  color: #6f6f6f;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.blog-container h1:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 80px;
+  height: 5px;
+  background: #6f6f6f;
+}
+
+
+.blog-container h2 {
+  position: relative;
+  text-align: center;
+  color: #000000;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
 
 .card{
   border: 0;
@@ -2516,4 +2554,6 @@ textarea.form-control::-webkit-input-placeholder,
   object-fit: cover;
   margin-right: 10px;
 }
+
+
 
