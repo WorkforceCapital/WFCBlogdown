@@ -2,7 +2,7 @@
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
-image: images/concepts/swp.jpg
+image: images/concepts/swp.png
 title: Strategic Workforce Planning
 ---
 
