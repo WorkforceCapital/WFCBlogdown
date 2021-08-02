@@ -6,19 +6,22 @@ image: images/concepts/swp.png
 title: Strategic Workforce Planning
 ---
 
+
+
+
 Do any of the following struggles ring true?
 
-- challenge 1
-- challenge 2
-- challenge 3
+- Failure to align planning with business goals
+- Little to no collaboration during planning
+- Focusing on only the short-term initiatives
 
 
 Our Services : 
 
+
+**Strategy**: Lead strategic planning and design for all aspects of workforce planning function to advance analytics and business capabilities to strengthen program execution in support of strategic initiatives.
+
 **Analytics Educator**: Elevate internal analytical fluidity across the workforce, planning, performance and rewards, service delivery, culture, and engagement, talent optimization and recruitment & staffing.
-
-
-**Strategy**: Lead strategic planning and design for all aspects of the People Analytics function to advance People analytics capabilities to strengthen program execution in support of strategic initiatives.
 
 **Corporate priorities**: Provide thought leadership to create data governance and management strategies and tools.
 
