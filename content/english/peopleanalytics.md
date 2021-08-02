@@ -8,9 +8,13 @@ title: People Analytics
 
 Do any of the following struggles ring true?
 
-- challenge 1
-- challenge 2
-- challenge 3
+- We prefer ‘gut feelings’ to make people-based decisions
+- Inflated Expectations
+- We need the right tools to do the job
+- No confidence in the underlying frameworks
+- Show me the Money
+
+
 
 
 Our Services : 
