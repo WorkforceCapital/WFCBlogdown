@@ -6,19 +6,17 @@ image: images/concepts/people-analytics.png
 title: People Analytics
 ---
 
-Do any of the following challenges resonate with you?
 
+Your organization decides to embark on people analytics.
+Despite all the hype and effort, adoption is low at this time. There are several reasons for the slow adoption
+
+Do any of the following challenges feel like reality to you?
 
 - We need the right tools to do the job
 - No confidence in the underlying frameworks
 - Show me the Money
 
 
-
-
-Good planning is the secret behind any good business. You need to know what direction you want to take your business in, what your goals are and have a plan to make it all happen.
-
-This means having a plan for all aspects of your business including a plan for the future of your workforce. 
 
 
 Our Services : 

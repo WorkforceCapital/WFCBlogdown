@@ -7,9 +7,14 @@ title: Strategic Workforce Planning
 ---
 
 
+Strategic workforce planning (SWP) has never been more critical to organizations. 
+
+More and more organizations are making SWP an essential part of their strategic planning cycle, especially in a post-COVID and the future of work setting.
+
+You have a vision for your organization's future, but can your SWP team translate it to a plan to lead you there?
 
 
-Do any of the following struggles ring true?
+Here are some elements that can explain the struggles; that sounds ring with you?
 
 - Failure to align planning with business goals
 - Little to no collaboration during planning
