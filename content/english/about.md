@@ -10,14 +10,17 @@ image: images/backgrounds/portrait.jpg
 title: KNOW MORE <br> ABOUT BADR
 ---
 
-I am a consultant specialized in people analytics & business intelligence. Passionate about applying analytics to the world of business and talent. 
- 
-My career started as a financial analyst, where I first began to understand how talent strategies can have an impact on profitability and total shareholder return.
+- Who am I?. A consultant with a strong command of HR domain knowledge, business acumen, excellent relationship skills and a relevant background in strategic workforce planning with an operational and analytical orientation.
+Passionate about people, with extensive experience in the following areas: workforce planning consulting and people analytics.
+I thrive in a fast-paced environment and am highly tolerant of ambiguity and change. Always, focused and collaborative team.
 
-I then decided that people analytics was going to be my next career step. Since then, I enjoyed the opportunity to work for some of the top  Canadian companies making people analytics my vocation. 
+- What do I do?: I help my clients achieve business and talent alignment by assisting them with their HR data and technology portfolio, expanding people analytics across the organization globally through enterprise-wide insights and self-service reporting.
 
-15 years of experience in the field, my purpose is to help Quebec and Canadian companies to be leaders in people analytics.
- 
+- Whom can I help? HR Executives in organizations implementing effective workforce planning and people analytics help them adopt data-driven, evidence-based approaches based on behavioural science, continuous listening, and replacing outdated, anti-science change management.
+In addition, my role often involved providing technical and professional advice and guidance on complex and conceptual issues to younger consultants and specialist analysts.
 
-My vision is to bring my future clients that are C-suite level as well as the functional level to realize their alignment of business and talent, creating analytical tools to inform executive decision making and implement change programs to support business transformation efforts.
+- Do you want to scale your workforce planning and people analytical function in your organization?
+
+
+Let's Talk!
  
