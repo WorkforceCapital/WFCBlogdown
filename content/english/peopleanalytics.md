@@ -3,7 +3,7 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 image: images/concepts/people-analytics.png
-title: People Analytics
+title: PEOPLE ANALYTICS
 ---
 
 
