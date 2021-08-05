@@ -13,7 +13,7 @@ occupations:
 - Strategic Workforce Planning (SWP)
 - Consultant People Analytics 
 slider_images:
-- images/slider/slider-1.jpg
+- images/slider/slider-1.png
 - images/slider/slider-2.png
 - images/slider/slider-3.jpg
 title: I'm Badr eddine Ait Ahmed
