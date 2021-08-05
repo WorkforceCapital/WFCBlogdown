@@ -13,8 +13,7 @@ More and more organizations are making SWP an essential part of their strategic 
 
 You have a vision for your organization's future, but can your SWP team translate it to a plan to lead you there?
 
-
-Here are some elements that can explain the struggles; that resonate with you?
+There are several things that can explain the struggles; which resonate with you?
 
 - Failure to align planning with business goals
 - Little to no collaboration during planning
