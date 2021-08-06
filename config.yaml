@@ -3,7 +3,7 @@ title: WFC | Workforce Capital
 theme: somrat
 paginate: '8'
 summaryLength: '10'
-disableLanguages: yes
+disableLanguages: no
 googleAnalytics: ''
 disqusShortname: ''
 outputs:
@@ -77,31 +77,4 @@ Languages:
           url: blog
           weight: 5
     weight: 1
-  fr:
-    contentDir: content/french
-    copyright: Copyright © 2021 Workforce Capital - All Rights Reserved. - Privacy Policy 
-    home: Accueil
-    languageCode: fr-fr
-    languageName: Fr
-    menu:
-      main:
-        - name: ABOUT BADR
-          pre: '#'
-          url: about
-          weight: 1
-        - name: PEOPLE ANALYTICS
-          pre: '#'
-          url: peopleanalytics
-          weight: 2
-        - name: STRATEGIC WORKFORCE PLANNING
-          pre: '#'
-          url: swp
-          weight: 3
-        - name: CONTACT
-          pre: '#'
-          url: contact
-          weight: 4
-        - name: BLOG
-          url: blog
-          weight: 5
-    weight: 2
+
